@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kennycheungw
 - 👀 I’m interested in music, basketball, fitness and data!!
-- 🌱 I’m currently learning about the SQL, Tableau, marketing, and data analytics.
 - 📫 How to reach me linkedin.com/r/kennycheungw
 
 <!---
